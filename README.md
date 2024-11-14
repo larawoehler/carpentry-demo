@@ -7,4 +7,11 @@ some text over here
 
 # new new headline
 
-test git on local computer 
+test git on local computer
+
+# another new headline
+
+and another test  
+
+
+changes made
